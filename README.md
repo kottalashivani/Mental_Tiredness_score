@@ -1,19 +1,52 @@
-# Mental Tiredness Score Calculator
+Project Title
+Mental Tiredness Score Calculator
 
-A Python project that calculates a mental tiredness score (0 = fresh, 100 = very tired) from daily lifestyle inputs, with a simple Streamlit web app.
+Objective
+Calculate and track mental fatigue levels using a quantitative score
 
-**Tools used:** Python, Jupyter Notebook, Streamlit
+Help users identify when they are experiencing mental exhaustion
 
-## Files
-- `Mental_Tiredness_Score.ipynb` – full code and results
-- `app.py` – Streamlit app
-- `requirements.txt` – Python dependencies
+Prevent burnout by recommending timely breaks
 
-## Run the app
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+Track fatigue trends over time to understand personal patterns
 
-## Disclaimer
-For learning purposes only. This is not a medical or diagnostic tool.
+What This Project Does
+Computes a mental tiredness score based on input metrics like work hours, self-reported fatigue, and cognitive load
+
+Provides clear interpretation of results (low, moderate, or high mental fatigue)
+
+Visualizes score trends using charts and graphs
+
+Offers personalized suggestions for managing mental tiredness
+
+Key Features
+Simple and easy-to-use score calculation
+
+Visual dashboard for tracking fatigue over time
+
+Clear score interpretation with color-coded results
+
+Break recommendations based on fatigue level
+
+Data tracking and history storage
+
+Technologies Used
+Python
+
+NumPy for data processing
+
+Pandas for data manipulation
+
+Matplotlib for visualization
+
+Who Can Use This
+Software developers working long hours
+
+Students studying or preparing for exams
+
+Professionals managing high cognitive load tasks
+
+Anyone wanting to monitor mental fatigue and prevent burnout
+
+Purpose
+This tool helps users maintain sustainable work habits by monitoring mental fatigue levels and encouraging timely rest to avoid burnout.
