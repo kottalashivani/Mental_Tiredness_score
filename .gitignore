@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+history.csv
+.ipynb_checkpoints/
+.DS_Store
